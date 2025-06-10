@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-primary;
+}
+.btn {
+  @apply py-4 px-12 flex justify-center items-center  rounded-md font-light transition-all ease-in-out duration-300;
+}
