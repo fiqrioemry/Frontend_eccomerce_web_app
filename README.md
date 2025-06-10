@@ -1,4 +1,4 @@
-![Thumbnail](./public/thumbnail_flavorize.png)
+![Thumbnail](./public/thumbnail_exclusivemart.png)
 
 # 🛒 Exclusivemart – Static E-commerce Frontend (React + TailwindCSS)
 
